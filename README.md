@@ -32,4 +32,4 @@ As you can see below not much of what was asked above has changed:
 ### Summary: 
 
 As far as percentages the percentage of passing math changed but not by much. The percentage of overall passing also changed but again not by much. The four changes would be Math Score, Reading Score, Passing Math Percentage and Passing Reading Percentage.
-Overall I feel like taking the ninth grade data of Thomas High School did not effect the data as much as we thought it would since we are dealing with a good amout of schools.
+Overall I feel like taking the ninth grade data of Thomas High School did not effect the data as much as we thought it would since we are dealing with a good amout of schools and as you can see in the above referenced pictures.
