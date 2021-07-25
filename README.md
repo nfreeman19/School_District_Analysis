@@ -26,7 +26,8 @@ As you can see below not much of what was asked above has changed:
 ![myTest](https://github.com/nfreeman19/School_District_Analysis/blob/main/Resources/Origianl.png)
 
 **Updated**
-![myTest](
+![myTest](https://github.com/nfreeman19/School_District_Analysis/blob/main/Resources/Updated.png)
+
 
 ### Summary: 
 
