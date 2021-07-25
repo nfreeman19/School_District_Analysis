@@ -7,7 +7,7 @@ The purpose of this analysis is to revaluate the origianl analysis of the readin
 
 ### Results: 
 
-![myTest] (https://github.com/nfreeman19/School_District_Analysis/blob/main/Resources/Module%204%20Results%20Snip.png)
+![myTest](https://github.com/nfreeman19/School_District_Analysis/blob/main/Resources/Module%204%20Results%20Snip.png)
 
 
 Using bulleted lists and images of DataFrames as support, address the following questions.
