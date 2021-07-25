@@ -20,6 +20,9 @@ As you can see from the code written below, instead of the score numbers it has 
   - Scores by school size - School size stayed the same.
   - Scores by school type - School type stayed the same
 
+As you can see below not much of what was asked above has changed:
+![myTest](
+
 ### Summary: 
 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
