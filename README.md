@@ -7,6 +7,8 @@ The purpose of this analysis is to revaluate the origianl analysis of the readin
 
 ### Results: 
 
+As you can see from the code written below, instead of the score numbers it has been replaced with "NaN" per the code. 
+
 ![myTest](https://github.com/nfreeman19/School_District_Analysis/blob/main/Resources/Module%204%20Results%20Snip.png)
 
 
