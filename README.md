@@ -15,9 +15,9 @@ As you can see from the code written below, instead of the score numbers it has 
 * The district summary and school summary did not change much because of the ninth grades being taken on of the data.
 * Thomas High School's performace was already pretty high and then skyrocketed relative to the other schools.
 * How does replacing the ninth-grade scores affect the following:
-  - Math and reading scores by grade - 
+  - Math and reading scores by grade - The only scores that changed were the nonth grade scores we took away.
   - Scores by school spending - Budget and spending stayed the same
-  - Scores by school size - 
+  - Scores by school size - School size stayed the same.
   - Scores by school type - School type stayed the same
 
 ### Summary: 
