@@ -12,16 +12,13 @@ As you can see from the code written below, instead of the score numbers it has 
 ![myTest](https://github.com/nfreeman19/School_District_Analysis/blob/main/Resources/Module%204%20Results%20Snip.png)
 
 
-Using bulleted lists and images of DataFrames as support, address the following questions.
-
-How is the district summary affected?
-How is the school summary affected?
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
+*The district summary and school summary did not change much because of the ninth grades being taken on of the data.
+*Thomas High School's performace was already pretty high and then skyrocketed relative to the other schools.
+*How does replacing the ninth-grade scores affect the following:
+- Math and reading scores by grade
+- Scores by school spending
+- Scores by school size
+- Scores by school type
 
 ### Summary: 
 
