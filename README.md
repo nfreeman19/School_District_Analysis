@@ -31,4 +31,6 @@ As you can see below not much of what was asked above has changed:
 
 ### Summary: 
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+As far as percentages the percentage of passing math changed but not by much. The percentage of overall passing also changed as you can see in the above section with pictures.
+Overall I feel like taking the ninth grade data of Thomas High School did not effect the data as much as we thought it would since we are dealing with a good amout of schools.
+Summarize four changes in the updated school district lysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
