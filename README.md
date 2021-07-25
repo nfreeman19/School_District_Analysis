@@ -21,6 +21,11 @@ As you can see from the code written below, instead of the score numbers it has 
   - Scores by school type - School type stayed the same
 
 As you can see below not much of what was asked above has changed:
+
+**Original** 
+![myTest](https://github.com/nfreeman19/School_District_Analysis/blob/main/Resources/Origianl.png)
+
+**Updated**
 ![myTest](
 
 ### Summary: 
